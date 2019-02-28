@@ -1,0 +1,92 @@
+img {
+  float: left;
+  margin-right:15px;
+  width: 50px;
+}
+#yourDivId { z-index: 9; }
+#infobox {
+	padding: 10px; font-family: "Avenir Next", "OpenSans", sans-serif;
+	font-size: 12px;
+	color: dodgerblue;
+}
+
+.chart {
+	shape-rendering: crispEdges;
+}
+.mini text {
+	font: 9px sans-serif;
+}
+.main text {
+	font: 11px sans-serif;
+	font-style: italic;
+	color: red;
+}
+.miniItem0 {
+	fill: #bfbda4;
+	stroke-width: 6;
+	fill-opacity: .50;
+}
+.miniItem1 {
+	fill: #7f7e63;
+	fill-opacity: .50;
+	stroke-width: 6;
+}
+.miniItem2 {
+	fill: #fffcdb;
+	stroke-width: 6;
+	fill-opacity: .50;
+}
+.miniItem3 {
+	fill: #403f37;
+	stroke-width: 6;
+	fill-opacity: .50;
+}
+.miniItem4 {
+	fill: #e5e3c5;
+	stroke-width: 6;
+	fill-opacity: .50;
+}
+.miniItem5 {
+	fill: #bfa684;
+	stroke-width: 6;
+	fill-opacity: .50;
+}
+.miniItem6 {
+	fill: #7f6f58;
+	stroke-width: 6;
+	fill-opacity: .50;
+}
+.miniItem7 {
+	fill: #ffddaf;;
+	stroke-width: 6;
+	fill-opacity: .50;
+}
+.miniItem8 {
+	fill: #40372c;
+	stroke-width: 6;
+	fill-opacity: .50;
+}
+.miniItem9 {
+	fill: #e5c79e;
+	stroke-width: 6;
+	fill-opacity: .50;
+}
+.brush .extent {
+	stroke: gray;
+	fill: dodgerblue;
+	fill-opacity: .35;
+}
+h2 { font-family: "Avenir Next", sans-serif; }
+#fu { position: absolute;
+	top: 20px;
+    left: 20px;
+    background-color: darkgray;
+	border-radius: 6px;
+	color: white;
+	font-family: "Avenir Next", sans-serif;
+	font-size: 9px;
+    z-index: 9;
+	padding: 5px;
+	width: auto;
+	height: auto;
+   }

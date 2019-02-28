@@ -1,0 +1,13 @@
+<p>
+	<img src="i/conductor.jpg" width="50px">
+<ul>
+<li>Hi!  Sorry but the page for this composer has not yet been uploaded.</li>
+<li>¡Bienvenido! La página de este compositor no ha sido publicada.</li>
+<li>أهلا بك! لم يتم نشر صفحة هذا الملحن.</li>
+<li>स्वागत हे! इस संगीतकार का पेज पोस्ट नहीं किया गया है।</li>
+<li>欢迎！ 此作曲家的页面尚未发布。</li>
+<li>Добро пожаловать! Страница этого композитора не была опубликована.</li>
+<li>Bienvenue! La page de ce compositeur n'a pas été mise-en-jour.</li>
+<li>Kaabo! Oju iwe olupilẹṣẹ yii ko ti firanṣẹ.</li>
+</ul>
+</p>
